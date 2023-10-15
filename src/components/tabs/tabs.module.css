@@ -1,0 +1,16 @@
+.tabLabel {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.tab {
+    padding: 0;
+}
+
+.list {
+    flex-wrap: nowrap;
+}
+
+.list::before {
+    display: none;
+}
